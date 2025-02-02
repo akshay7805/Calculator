@@ -1,2 +1,2 @@
 Simple calculator 
-Enter two values and calcualte the values
+Enter two values and Find the solution
